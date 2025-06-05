@@ -6,7 +6,7 @@ This is a simple to-do list web application built using **React** and **TypeScri
 - Add new to-do items.
 - Toggle completion status (strike-through completed items).
 - Filter by **All**, **Active** or **Completed** tasks.
-- ptimized with `useCallback`, `useMemo` and `React.memo`.
+- Optimized with `useCallback`, `useMemo` and `React.memo`.
 - Fully typed with TypeScript interfaces.
 ---
 ## Project Structure
